@@ -39,27 +39,11 @@ Together, these findings identify neurodevelopmental pace as a biologically grou
 
 ## Repository Structure
 
-src/                 Source code  
+scripts/             Pipeline execution scripts 
 data/                Data directory  
 results/             Output figures, tables, and models  
-scripts/             Pipeline execution scripts  
-notebooks/           Exploratory notebooks  
 manuscript/          Paper-related material  
 docs/                Documentation and presentations  
-
----
-
-## Methods Overview
-
-The project uses:
-
-- Longitudinal structural MRI
-- Normative modeling
-- Brain developmental trajectory inference
-- Longitudinal deviation estimation
-- Mediation analysis
-- Multisite neuroimaging harmonization
-- Biological gradient analysis
 
 ---
 
@@ -70,19 +54,6 @@ Adolescent Brain Cognitive Development (ABCD) Study
 
 ### GUSTO Cohort
 Growing Up in Singapore Towards Healthy Outcomes
-
----
-
-## Planned Components
-
-- [ ] MRI preprocessing pipeline
-- [ ] Normative modeling framework
-- [ ] Longitudinal pace estimation
-- [ ] Brain status estimation
-- [ ] Mediation analyses
-- [ ] Figure generation scripts
-- [ ] Reproducibility pipeline
-- [ ] HPC execution scripts
 
 ---
 
