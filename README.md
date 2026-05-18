@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Neurodevelopmental Pace
 
 ## Neurodevelopmental Pace Mediates the Association Between Risk Factors and Future Adolescent Psychopathology
@@ -96,4 +95,3 @@ If you use this repository, please cite the associated manuscript.
 ## License
 
 This project is currently under active development.
-EOF
