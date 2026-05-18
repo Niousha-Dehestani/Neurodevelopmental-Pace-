@@ -36,7 +36,13 @@ Importantly, brain pace predicted future psychopathology more strongly than brai
 Together, these findings identify neurodevelopmental pace as a biologically grounded and clinically informative marker of adolescent mental health risk.
 
 ---
+## Overview Figure
 
+<p align="center">
+  <img src="figures/overview.png" width="900">
+</p>
+
+---
 ## Repository Structure
 
 scripts/             Pipeline execution scripts 
