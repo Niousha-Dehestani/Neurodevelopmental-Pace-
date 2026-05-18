@@ -39,7 +39,7 @@ Together, these findings identify neurodevelopmental pace as a biologically grou
 ## Overview Figure
 
 <p align="center">
-  <img src="figures/overview.png" width="900">
+  <img src="figures/Overview-fig.png" width="900">
 </p>
 
 ---
