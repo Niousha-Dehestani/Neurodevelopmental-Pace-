@@ -1,20 +1,19 @@
+cat > README.md <<'EOF'
 # Neurodevelopmental Pace
 
 ## Neurodevelopmental Pace Mediates the Association Between Risk Factors and Future Adolescent Psychopathology
 
 ### Authors
-Niousha Dehestani, Sina Mansour L., Kwun Kei Ng, Thuan Tinh Nguyen,  
-Su Xian Joanna Chong, Qian Xing, Tim J. Silk, Sarah Whittle,  
-Yap Seng Chong, Johan G. Eriksson, Michael J. Meaney,  
+Niousha Dehestani, Sina Mansour L., Kwun Kei Ng, Thuan Tinh Nguyen,
+Su Xian Joanna Chong, Qian Xing, Tim J. Silk, Sarah Whittle,
+Yap Seng Chong, Johan G. Eriksson, Michael J. Meaney,
 Ai Peng Tan, Juan Helen Zhou
 
 ---
 
 ## Overview
 
-This repository contains the analysis pipeline, normative modeling framework, longitudinal neurodevelopment analyses, and visualization code associated with the manuscript:
-
-> **Neurodevelopmental Pace Mediates the Association Between Risk Factors and Future Adolescent Psychopathology**
+This repository contains the analysis pipeline, normative modeling framework, longitudinal neurodevelopment analyses, and visualization code associated with the manuscript.
 
 The project investigates how deviations in neurodevelopmental pace and brain status relate to future psychopathology during adolescence using longitudinal structural MRI data from the ABCD Study and the GUSTO cohort.
 
@@ -26,8 +25,8 @@ Many psychiatric disorders first emerge or intensify during adolescence, driven 
 
 Here, we applied a normative modeling framework adapted for inference to longitudinal structural MRI data from the Adolescent Brain Cognitive Development (ABCD) Study (17,137 scans) to dissociate two dimensions of neurodevelopment:
 
-- Brain status  
-- Brain pace  
+- Brain status
+- Brain pace
 
 These dimensions exhibited distinct spatial and biological signatures, mapping onto separable cortical gene-expression gradients.
 
@@ -41,11 +40,60 @@ Together, these findings identify neurodevelopmental pace as a biologically grou
 
 ## Repository Structure
 
-```text
-src/                 Source code
-data/                Data directory
-results/             Output figures, tables, and models
-scripts/             Pipeline execution scripts
-notebooks/           Exploratory notebooks
-manuscript/          Paper-related material
-docs/                Documentation and presentations
+src/                 Source code  
+data/                Data directory  
+results/             Output figures, tables, and models  
+scripts/             Pipeline execution scripts  
+notebooks/           Exploratory notebooks  
+manuscript/          Paper-related material  
+docs/                Documentation and presentations  
+
+---
+
+## Methods Overview
+
+The project uses:
+
+- Longitudinal structural MRI
+- Normative modeling
+- Brain developmental trajectory inference
+- Longitudinal deviation estimation
+- Mediation analysis
+- Multisite neuroimaging harmonization
+- Biological gradient analysis
+
+---
+
+## Datasets
+
+### ABCD Study
+Adolescent Brain Cognitive Development (ABCD) Study
+
+### GUSTO Cohort
+Growing Up in Singapore Towards Healthy Outcomes
+
+---
+
+## Planned Components
+
+- [ ] MRI preprocessing pipeline
+- [ ] Normative modeling framework
+- [ ] Longitudinal pace estimation
+- [ ] Brain status estimation
+- [ ] Mediation analyses
+- [ ] Figure generation scripts
+- [ ] Reproducibility pipeline
+- [ ] HPC execution scripts
+
+---
+
+## Citation
+
+If you use this repository, please cite the associated manuscript.
+
+---
+
+## License
+
+This project is currently under active development.
+EOF
