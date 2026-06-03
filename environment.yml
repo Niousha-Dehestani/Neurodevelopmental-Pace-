@@ -332,4 +332,4 @@ dependencies:
       - pyarrow==24.0.0
       - tifffile==2024.12.12
       - trimesh==4.5.3
-prefix: /Users/nioushad/miniconda3/envs/spectral-inf
+
