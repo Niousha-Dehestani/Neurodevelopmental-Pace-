@@ -2,7 +2,7 @@ library(dplyr)
 library(purrr)
 library(readr)
 
-data_path <- "/Users/nioushad/Documents/Doc_p/myJupyter/normative modeling/code/component/release6/hpc/finalpaper/output/finalpace.csv"
+data_path <- "output/finalpace.csv"
 
 dat <- read_csv(data_path)
 
@@ -189,4 +189,4 @@ mediation_results <- mediation_results %>%
 
 print(mediation_results)
 
-write_csv(mediation_results, "/Users/nioushad/Documents/papers/normative/mediation_results_medpkg.csv")
+write_csv(mediation_results, "output/mediation_results_medpkg.csv")
