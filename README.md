@@ -56,10 +56,10 @@ docs/                Documentation and presentations
 ## Datasets
 
 ### ABCD Study
-Adolescent Brain Cognitive Development (ABCD) Study
+Adolescent Brain Cognitive Development (ABCD) Study, https://doi.org/10.82525/jy7n-g441
 
 ### GUSTO Cohort
-Growing Up in Singapore Towards Healthy Outcomes
+Growing Up in Singapore Towards Healthy Outcomes, https://gustodatavault.sg
 
 ---
 
